@@ -1,5 +1,5 @@
 {
-  "name": "ALPHA-MD",
+  "name": "Lord-Draken",
   "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable..",
   "keywords": [
     "bot",
@@ -58,7 +58,7 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "Give a name for your bot",
+      "description": "Beelzebub",
       "value": "ALPHA-MD",
       "required": false
     },
@@ -83,12 +83,12 @@
       "required": true
     },
     "SESSION_ID": {
-      "description": "Enter your session ID, the code you receive after scanning the QR code",
+      "description": "2M9J4FWG ",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Your name",
+      "description": "Draken",
       "value": "keithkeizzah",
       "required": false
     },
@@ -129,7 +129,7 @@
     },
     "AUTO_REACTION": {
       "description": "Set 'yes' to enable bot reactions to messages in private chats",
-      "value": "no",
+      "value": "yes",
       "required": false
     }
   },
